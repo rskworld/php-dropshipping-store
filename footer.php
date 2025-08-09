@@ -37,7 +37,7 @@
             </div>
         </div>
         <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.05);">
-            © <?= date('Y') ?> <?= htmlspecialchars(SITE_NAME) ?> — All rights reserved.
+            © <?= date('Y') ?> <?= htmlspecialchars(SITE_NAME) ?> — All rights reserved RSKWORLD.IN.
         </div>
     </footer>
 
