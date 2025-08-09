@@ -55,7 +55,7 @@ A full-featured, SEO-friendly e-commerce and dropshipping platform built with PH
 
 1.  **Download or Clone:**
     ```bash
-    git clone https://github.com/your-username/cart-api.git
+    git clone https://github.com/rskworld/php-dropshipping-store
     ```
 2.  **Database Configuration:**
     - Locate the `db_connect.php` file.
